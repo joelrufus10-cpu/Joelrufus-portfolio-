@@ -1,7 +1,7 @@
 {
-  "name": "joelrufusart-portfolio",
-  "private": true,
+  "name": "joelrufusart-pro-portfolio",
   "version": "1.0.0",
+  "private": true,
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,10 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "framer-motion": "^11.0.0",
-    "lucide-react": "^0.344.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "framer-motion": "^10.12.16"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.1",
